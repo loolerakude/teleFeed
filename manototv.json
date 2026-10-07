@@ -12,7 +12,7 @@
       "date": "2026-10-07T06:58:07Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6840,
+      "views": 11300,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -66,7 +66,7 @@
       "date": "2026-10-07T10:00:39Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3190,
+      "views": 9030,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -116,7 +116,7 @@
       "date": "2026-10-07T10:01:09Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 3380,
+      "views": 10600,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -135,7 +135,7 @@
       "date": "2026-10-07T11:15:29Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 323,
+      "views": 10400,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -144,6 +144,139 @@
         {
           "type": "video",
           "url": "https://cdn4.telesco.pe/file/N2qd3PvQQSfiKMZ_7vYIN5bngsrPbTzHbGvyKEoLv2NS1LhFeSp8KOcEg1AWBrLPqf_ZAPNSenii-n7Jgi-2ujsKcLDWDjsIS0J4iw9ElpmzRnYUkKfYM8pYeAWsxuJ2L1g2IAMAqZHpdEvDCN8sXTQ6kuxzAVdNOn_QBHWnjQGqAJXrVbhvXUZmijiKU120yun73xcuV8b-G4BgkWAe58aWEx-itqU4NWiCQ_QjhggC6_B6BouyQEmrA4-C2c-F7Fs0YcroGn-rPPzUVvuZmI0myi5pgXGkDEyls9liELK0bGk7Xx-S1uHtk_1ghlMRP151nI4T0ca2blkW34t33Q",
+          "width": 406
+        }
+      ]
+    },
+    {
+      "id": 108216,
+      "message": "«تنها شعبه کفش بلا در آبادان به تاریخ پیوست» - گزارشگر",
+      "date": "2026-10-07T14:17:23Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 6770,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "تلویزیون منوتو",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/hpS-H1SiwMbGmm9tT_qaAqLuABXPbfjQNhvC4anVs7rEnoHKD4iqiBKa76Y141cK_T2pQu7ZaZO_HGuKLX69hmJ9o4_kGOGxBCp003RFlja0uevTVSayDxgD16H8giZsn09znYPs2uIK0YnTV4YS52ZDTAD6kePFrf872fI5lTYvjK5fg5XflRsDOO-jRcwNzMcEg6BeXq5r-LYsHG0JXat4hycKqQfVCboYvv48lfwweLJ5xCPy-hXSeYL6NiRQHndb_F93ed-7FjyekPz8i2Y5YkmzLwHtpE-xJ_oFH5dkte7-c-o6He133ZLUN3CDDYnvjnPcLeRHD7BPXPLSfQ",
+          "width": 406
+        }
+      ]
+    },
+    {
+      "id": 108217,
+      "message": "استعفای وزیر نفت؛ «خودشان هم فهمیدند که این وضعیت قابل ادامه دادن نیست» - گزارشگر",
+      "date": "2026-10-07T14:17:33Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 7460,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "تلویزیون منوتو",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/Zet5se1PvNahqd4P2WzGy5Aq0kzO-vbpGxcsxjDd-qmRJSeb5w3wuTHxJ3nOvr-UA89xq2DslKH6GAwvfQGpZ4V9rkom47UkFeRIgXAdUo_yt_49wiMrSp5FycFnPub0snuuoKWAlA0mJ1DYRZtWqny8VfxeraoLpY9i-acqK40jsjuUCiiGfoykdg6br9SBvM5UMde7dSM78r_Xn7enbrDhzaqd8mz-nL90J7QuU2X2FqGgd7-NPh64f8p8T1V3xpzygC8Z9tE2VGa7vJ1ttUieALWRh46TFqLaB0_rc0TYAv9r7yN6AZn75Fvs_WHTYhfOlzbgwoG0vCmHZQ7y2Q",
+          "width": 406
+        }
+      ]
+    },
+    {
+      "id": 108218,
+      "message": "فرودگاه بین‌المللی تبریز؛ «ببینید حکومت فاسد چطور با جنگ‌افروزی صنعت هوایی رو نابود کرده» - گزارشگر",
+      "date": "2026-10-07T14:17:40Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 7670,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "تلویزیون منوتو",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/QQxYJTkEOk9gEdM-T4iqOoNBTIN6ztHSFyAO5_GOLGAisQ0ex2adtitb4PrbkAfqoXSXB4AxWRR4ncRPzG59iDBqJgBZ8GGnO_yYopF6OL_zHOBbh84p7kQEJe0ykWZC4m4O_icSJNjTmJE4t3EzO_LBDzMyExL04RjrQVbmH-WyXU0j3YBzdoVn51tnM8s45Jr0SB1QnzBgUxvjcrGz65nnwLZk1Nox6N0hSHsEDvTh1TGo6ZCmhGuuBgHk9TA90c_irGRJBpinCYypZsRbBvE7x6hNz8UhbQ-O2KipxrJ0Ky3YTCqkh8UF3uLaqHjP02jrmK0-XPeLsCEM5433Xw",
+          "width": 406
+        }
+      ]
+    },
+    {
+      "id": 108219,
+      "message": "مراسم یادبود علیرضا رئیسی، از بازداشت‌شدگان اعتراضات دی‌ماه، در میدان علیخانی ملک‌شهر اصفهان برگزار شد. علیرضا رئیسی در پرونده موسوم به «میدان علیخانی» به اعدام محکوم شده بود و حکم او دوم مهر ۱۴۰۵ اجرا شد.",
+      "date": "2026-10-07T17:01:06Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2830,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "تلویزیون منوتو",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/u-XDYaP_1N5R4M-AZTxp1ykJhWEnT0vjyCSGfs3mn8e0Np4jkDeKHDdS7QXAk7kvryZ7vxEhlTXL6iOgdko_pu-VludBm_t_Yj6AddU_YeybvnUQFzp5Iy_z5Bp1BQLxkniwOdHjJSvw0LayyT3T_iPY_NNsd1sFQ7MBdGQxNDOR16Jzze_0acligMOXdhRYp9S2MFLRQ0Bv9nCLNsV-1Y84Gmn2KCaMEs2J_QEp94OImzweqKZpAl5LQYi3JTocRQr0LmcAX53Z5G5Eei-Jq99fhAliRXZbZTZdiClaUo0gGer6WBMz5KoK1Hn8eqrm0FS6Vx6DroXSZqxK3ypCZA",
+          "width": 406
+        }
+      ]
+    },
+    {
+      "id": 108220,
+      "message": "گلایه گزارشگر منوتو از اختلال در ترافیک به دلیل تجمع شبانه حامیان حکومت.",
+      "date": "2026-10-07T17:01:12Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 2830,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "تلویزیون منوتو",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/mdaCcNWzknzue3W3pwG4AoDrNJ5BaBBrH0B5-muk0EsZ8o88QNq7Ya0hynmKg9uFWZtr38AI8B_r9RTidHnPNThYKdVOkTSotLnaUxJwXStTEDLvHECinmvO9newvuonmaLI4Qvz4HJjmYkNg9AIELAwLV1bkkuH5gYRXoUuqAcKjjJzmyhvPkatPTmhUBUxHEkIo4F3HS-izNgcRYQpBfSyPDbBeO8SXOLa2ZepRgb83NREikMW8Zo2FxAgta3qDswSpazBlj7iqbMXjzeJTf8uf3ThkXVmRmhIAZJ_8eszBRyP4P-5ks1Tp8r1_xT-4EScJI7rpHOC3xRt40_8BA",
+          "width": 406
+        }
+      ]
+    },
+    {
+      "id": 108221,
+      "message": "هاجر مهرابی، خواهر محمود مهرابی، زندانی سیاسی محبوس در زندان دستگرد اصفهان، با انتشار ویدیویی از درگذشت مادرش خبر داد و گفت: «مادرم چشم‌انتظار برادرم بود که بیش از ۱۴۰۰ روز بدون مرخصی در زندان به سر می برد.»\u003cbr/\u003e\u003cbr/\u003eمحمود مهرابی در بهمن ۱۴۰۱ بازداشت و در اردیبهشت ۱۴۰۳ به اتهام «افساد فی‌الارض» به اعدام محکوم شد. حکم اعدام او در مهر همان سال از سوی دیوان عالی کشور نقض و او بعدتر از این اتهام تبرئه شد. مهرابی در پرونده‌ای دیگر به پنج سال حبس قابل اجرا محکوم شده و همچنان در زندان دستگرد اصفهان به‌سر می‌برد،",
+      "date": "2026-10-07T17:01:20Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3270,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "تلویزیون منوتو",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/aoyiq2nJ2Rjzhx3mbVApRuJ0EBB9RhRoDTVbUbXNHQ88laCcAORloRnVqRgy4UaCWO0cTA8IuB5NT_dAPkfbjUIiRpFGD946pDvgXIICapm0OEMz2lvsOhyvnYl4JJYxYta4hSvaB0X77f8vTwHc_L8UpdNEKvlVgD_3jEnzNEJL_oeCRUjGRhLJdWGfoO3HbinXaiFZ61vHrut_W9PN5RHZCfSYCer7KvgKc2kGQzZLxiyq9Ojq5UpBBEtMRka5HOoSxXlzlAJeiAjdXXcbpaiRK6e-X3F2X8WqJDya0rWZda_IWOuqNfe8rbLNSpn9ia5Z7_51f63gIe9DHUxVLQ",
+          "width": 406
+        }
+      ]
+    },
+    {
+      "id": 108222,
+      "message": "افزایش ۴۵ هزار تومانی چیپس خلالی در کمتر از یک ماه ـ گزارشگر",
+      "date": "2026-10-07T17:01:26Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 3350,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "تلویزیون منوتو",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/X_yYdXTnPLvbnSeqzTzu36rlpq3yAZUUo6birW6_49n4clC2m9rBwU_w-TYE9yhduoaYtfPRATf_SAYxUryhvIGnRyosoLUuq5O-F_xrPhjStCK29vmo1dnvMa6A4P_NqZofvxKuiCS7kuu31FdWV9lCyJlkXPi_EL61UvwZohBFqUk-CsTLlhntIev9Uo3Jr0RhNWckLChos9jqRY9IA_0WTuyPbQ_NzsKYQq7Ai6vpRHHpfaKP1LU2wEbFTmDlYbSNTLk-V4SfzijJwK2mOgLNOojR5btaB5V4tXu-BdVGs1StCN2h0odVUvvs9ZhB-muoAOXd1WO2ObNrsYF19A",
           "width": 406
         }
       ]
