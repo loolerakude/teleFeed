@@ -3,81 +3,16 @@
     "id": 0,
     "title": "تلویزیون منوتو",
     "username": "ManotoTV",
-    "photo_url": "https://cdn4.telesco.pe/file/I6KVe96XbjO593YyVJqWRybOIpb4JIhh1wrldmjEsxxbuDyhxb9yJZsHVLVLXUR2LzaR0uMUpfESM5IfbGx13eYjWtbGQYSSuMx85NKargJbI62ZHAud1OLmHMNSV6-NmiQIJnwZdGjavaIvKfCEiDAVwFA4rZ__FR82xGCEgCvPxkg531nVctGuwN8E6aDZG7MWjn3nFMW9aVVR60ObY_xhfHrZ4EUJpIrM00CPfNjDx-kYYc2rBSfhjdHbZoJMRy7xC5tY4Jb4bHrjnWsj6DVb44KQJD-XsX7u9Mvuu95wG7L_hcpyoBovrktSfBBc4DZj5tR83x9avp4ThUGSBQ.jpg"
+    "photo_url": "https://cdn4.telesco.pe/file/vG0grIZHUygP-7WffUIVIlY35mREyXBOhpQiO_LZGcL_uc8i_LBTmf_UvGSVLhTDgvKwoBvSRWUPMUJGSagHLi_0wnW_QNCF71IFa10gSPDI_5lK84g6zpFuE3wcjkoI0TFCV8Cdpli8nAelwuXsbce4apEg1NJNNNlxy2hqddfFStQCGe9mTr4nkG95mdlLjJ7LXyomYDSxLhPK8-lYsJU_KjduplatxTB0XhJplmmN1NLDJcc4qtr0-J0SQ9bubFk5i5M7MstHRJti0XhY7oBbPbQCWIxP8ikewe260L6aT5uGPEMK5_VKIZNYd0HKDwYXArmNukLx3JufudvfnQ.jpg"
   },
   "posts": [
-    {
-      "id": 108260,
-      "message": "مروری بر مهم‌ترین اخبار و تحولات جمعه ۱۷ مهر ۱۴۰۵.",
-      "date": "2026-10-09T10:13:12Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 8210,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "تلویزیون منوتو",
-      "media": [
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/XsOHtMBFpGLyx83I_LKu7RhXU_JtOOX8q1seejU6BNVbZeH7u8WVFKemgwug2xnCBAgfu1iHbrrV9rssoWbohU8GTB-D6FVP4wSELSYy4y-q5NNEPQTvecu0B0fdL0hAQCaDwgWebNQg90hLdZ7kTmfh_RrGIfjiGN1GwZmcLHcn8-YnFUZc9i-NTgvC7e8UII4_6EdSjbZ9OechxP7QamWyJ_j4etpkWDEL52zEwPO8GGIeMT69xeenZi64ALgMvKVOapr1AC_csq23lhUIzx1xDYU0yea5VUbnwDTjj2CCxW_v7EuIJrQKHIPD46SucZaU5suzRsLp-Y58M-MwPw.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/fwOpB0bGOws56yuvuUuJRGJyWaKo-h-CEhmmcSIvYO_ok6TsUJX0Eaxf5W_IOfIjBsOTDOF2ULIOVwQanka5xkpOtucNkSqC4HPQGcKhHSL5LAHtZ3GVcINaNHXgaYt8tlU75UFA1zg0qN-7UZXN8et8DoSPe0yyUCgpc8sSUWWPW_Q-ip-UcBxhzwRVXwAuBFFF-yrrNdplkff7I2k6CVzqJbjvN4os0VyY7lJEwH5FxDdy2nvJXqswzsi-76_r9y-qXCQiwCsPnqlAjE3WQfvO5J6CQWAkCdqIgsIKYkst1zA6d2bH_e6xo2x62UynfLEUEGOADCTWPB_Dhmd23Q.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/AzLtWhoUrYBxKlP4k-Vn1K9zRpQIoX2HBsqCTOsKw_XZXYahP7bimILaAK8gcclT6EdUnYP7zKWwv-2uxa34rE5iexYp1sd0_r0sxkZQ9yCEfk9OupVk62Ob61AH4OEqrLxME7yi_awC3SdzK74P3LRZMzi36NcMu1omKzIjIKVr1f5MAFHXr-kr0LESS8aS2oaQQITFYCLNHWv3TG856Mg6Vkf6_yUPNj9Wy3PO9cZQ0uDLKmFuJ5wlwgevrUiK15zzp_nPX8KjINo4csSwMnQuX2B9LRxrbAepHafJnsNK821zuqh-Y6c0a45nYzYpvdGlRVmeLVRgr8wyc01OiQ.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/a_-0W0zHHBoTZkci4gRQAeV7aiTfvGC6LRwyAnxMQLQKSxPcg5TBgzeTiHUq90Fjz131pNGioRkFGFU3zMYE5_oKHoie8AIjgVx0MMFfnHHmnMYJviw54OPhI6NNXiBbNi3H1CrL_T6LVDIkTR71yq-eN9QLA1yhLBkUWr7zbgCfFqDqygoOTJaTYTNIQwOTOt7C_uclw_B1Zy0BoXF8nyaGJ8qx-UY31qTiyYe5ufFDY69GYC01Y4UoJWw01SNbS3PHyofe3mx953qF_CvvwswZpHgqvOcLoKuEcJV8aDpOtIfK3tkP1r1JRjW3t_HMwbS3SUWdm7lRGzH3EJ16eg.jpg"
-        },
-        {
-          "type": "photo",
-          "url": "https://cdn4.telesco.pe/file/ZolP4T5Ut5AWf4t-u3O_ihMI6aOlliJA3q_BY1-5EFQaaDSnKViFgLyHWxfDKqir7_pCY9ntKKZ4SkcRb6HdXGdL9wMeG3HC2VsaDfpQ-mgHg_sSel_OQpJeXji-tDTA8yhQUZpv43iM0Kj-2Kk28xq7E5JI6hDDGqa2mNtWPHXOZZUjaUU6PIBp137u-A2NdZnC-vbLyVmIvGUKdg3kHXQ4SWHySxL_bCR11V_PtIHrW9Az11HwK-cvCXmn6lq2udGHZezx4rA8TU6Db8Hc6wt9N6kDAeSAKyTheQ6GbyVFtISHUUKYfMLgC-t7MkceuMHMbRbDWo7ncZ5reWb6kw.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/qoITiehFGuWPottft65XNq-4s-YfeVmBYEoH4WkExN_-YUPymQShejUjteo-Ngge77Edi6zNrdZU1SBTmqjhESff5AYdoCIImbKz6Ce9nNWFpgo5q8nByBPUo7HsZZ0D_8yBl82Kop9Ah6gEDgD7C3iWI-PqfM62O0wkDZjxW9rzAG6Y1kJs9kVkhmRSrra9je5e-KjKOw2fUzmlKp7dnkq7bRvFPgV7oDpO7QYtBkVEy9gwNt6WwNK7KiSTlx1YoQbwQLlG9caNXxMnxcw-OUP1S1Qj8XbawSQUz_hgGHfHAqZxfNQHfGpLvC0-AgBLXs0Hae_vSORh4OZbKlBssA"
-        },
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/k3PsJmngZcG6EoibfdwnjXCtq4I7j4M3Qf_br2kPdRAqmT73_WXQE4WJwct3ED_BsLUJpcwrdYNKne5kQxDRFML1mp__VOlp_mKnlKI6bLOr_GqhOBSMl8O5r19k0adtUnpOhU5QiPf3nMhhM_NYaQ80ML1y80a27pJGXQXE5EdnQZaxXGCdFjkaKHLoKhXGznHd2rmyr_VXwxI-HIw5vdQIAIbU991eazXTQZ6BhhJpvGO6F_YLysdDF_B0A0wTUFfTEHqFC8vVeuWndmsxsbS7wNKWOxzILKHV2eo_vqgMZ8onLtT0SE5pGDqv4UMDD27zk60WIZKo--Q2YC7tFA"
-        },
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/QsftsoKhihj3PtV8v_FgTGPMf_NP-8eIFpNh7L65k5UpM0KzapKB1p5kvZ5IpqxNQLrYNERzF1vNCDczBft1eK2Lt8JNJLo_tRLBUlNVDKUKJ6yNo7LaktAZ-Y2lV_ciTBs8VDH_Ks6vw20MGbbpNv9xXRpB4uWwAvL7KH1sE0rDdLBadnsk3hFbktilYaLhCkaTPw6TZEKqFwph2lAR6O_n_m0O2j79wVn93GxFO3WFDq9MQqLqqEkI1xGhsCppYiCZKpTRyd9kOUvttYJFDfiPMPof85VicrkCUuKarB2Dl_8dIbkSGrjTyC_Ww1SuFNoyOE8EGJAG4NuGY-dt4g"
-        }
-      ]
-    },
-    {
-      "id": 108268,
-      "message": "«اومدم بنزین بزنم می‌گه کارت‌های بانک قطعه» - گزارشگر",
-      "date": "2026-10-09T12:06:03Z",
-      "edited": false,
-      "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5820,
-      "forwards": 0,
-      "replies": 0,
-      "sender_id": 0,
-      "sender_name": "تلویزیون منوتو",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://cdn4.telesco.pe/file/h2zAK9n_wHUdp9oSG966mFeNGs-eJ9U-UaC2Y8gWyQbzEsiBQWLWWDsUHbdwjyyLTh3vj_tdPYzy1ErjM0a8koa2IJXH_A7U5ZTpU8UJaeWvLbwuHE-YyPtYJ9OGnFE5ZXkWF5PW6jRc6TLy31S1fjaCwwcu6pryW6BJ_P2DGtL0-g_4WhNsqlsVoDc4CsbqeSTW2mHmfRSZ5BKkzqHnBZ2HpR1hyqMt_aHnFVVFQxzvPk5zl4Trh4SKRVWUTCBzNYxnLZeE_U0GCgdGi03cdeFWIbUh3Tf0i4sv10h3VwRdqo_KPmPWVAFoIo7Kpn9_pDVEH-M2O529UmQdLLkhrg",
-          "width": 406
-        }
-      ]
-    },
     {
       "id": 108269,
       "message": "گزارشگر منوتو از افزایش بیش از پنج هزار تومانی قیمت نان در عرض چند روز خبر می‌دهد.",
       "date": "2026-10-09T12:06:08Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 6700,
+      "views": 9220,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -96,7 +31,7 @@
       "date": "2026-10-09T12:06:17Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 7150,
+      "views": 9330,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -115,7 +50,7 @@
       "date": "2026-10-09T14:09:16Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 5090,
+      "views": 9070,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -169,7 +104,7 @@
       "date": "2026-10-09T16:06:27Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1500,
+      "views": 7170,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -188,7 +123,7 @@
       "date": "2026-10-09T16:06:35Z",
       "edited": false,
       "edit_date": "0001-01-01T00:00:00Z",
-      "views": 1600,
+      "views": 8210,
       "forwards": 0,
       "replies": 0,
       "sender_id": 0,
@@ -197,6 +132,120 @@
         {
           "type": "video",
           "url": "https://cdn4.telesco.pe/file/nXj5cW7KnHGAlfsA12YG8f9pKBdd5xujdRV3e2lg_zllmdFZT0dMely_ZJflAADAI9tG6trk87P87O9ApcdhDqkmN1FIzq1DaFVp5vedgatLcK3oZnK_Jtg_QtITIWcOWjNTI8oT0kJ13q0OC4tWGsZAGOBToRw-djvwiPEgDfO0TiqP9OzuvlHWic8evxtZSbwCY5fEpLcvZqkmF21zLtuVHRUWMZ1Om-Y2QMw8NIlau9-Itl3PRreff3vxdQ1qFF6T_1hpdzpHnqrDlOQZ-xL7V7WOKajmbkkz1pTkdiNNxhqrgnDmHDaKgtzH1fYK9T0MS1W81Quve1OWFSnUpg",
+          "width": 406
+        }
+      ]
+    },
+    {
+      "id": 108283,
+      "message": "جاویدنام مهدی شفیعی ۴۵ ساله، و پسرش جاویدنام مانی شفیعی، ۱۸ ساله، شامگاه ۱۹ دی ۱۴۰۴ در جریان اعتراضات شهرک قائمیه اسلامشهر با شلیک گلوله جنگی نیروهای حکومتی کشته شدند. مهدی اهل روستای چنار از توابع اسدآباد همدان بود و در یک پروژه ساختمانی کار می‌کرد. مانی دانشجوی حسابداری بود. مهدی برای شرکت در اعتراضات از خانه بیرون رفت و با اصابت گلوله به قلبش جان باخت. مانی نیز سر کوچه هدف شلیک قرار گرفت؛ گلوله به ناحیه کلیه‌اش اصابت کرد و او در آغوش مادربزرگش جان باخت.\u003cbr/\u003eبه خانواده اجازه خاکسپاری آن‌ها در تهران داده نشد. پیکر جاویدنامان مهدی و مانی شفیعی روز ۲۱ دی ۱۴۰۴، در روستای چنار اسدآباد همدان به خاک سپرده شد.",
+      "date": "2026-10-09T16:59:20Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 7780,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "تلویزیون منوتو",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/mG3TRRMBUhviR4kto4qxIYiDoccPBY_fUmOdWn8dJHbja5bB7O-WaSSi9873_52706rd2EPCicV2MLHwj5gMdDX_A1hTMzZgUA6VIhUcmuiQVLgN6ipVP3UAgvotaJJwFeuhboDjTkOdXsZzQBamPjVqbRh7AkjcZYl6fU9f50TwGK6AkaBrBXPTTGIXZ2frpc6l1psuUp1SY985GVOIQN-LDaHs-i0ZDiBWRtV3lpdgzP8K2WhvBTQiFRt3dXiIHc3AtI7i2dqol6dzHOX4j_E-WoUhR8Fvagp9g9LSQ04thwZV3Eg6DTboYUfpgzSMviIYLKgLb5q2qQf3g__ZJA",
+          "width": 406
+        }
+      ]
+    },
+    {
+      "id": 108285,
+      "message": "چگونه جنگ خشایارشا و آتن به نماد تقابل «آزادی غربی» و «استبداد شرقی» تبدیل شد؟ این جنگ بر سر قدرت، استقلال و منافع سیاسی در دریای اژه بود و یونانیان در هر دو سوی آن می‌جنگیدند. اما قرن‌ها بعد، در بخش‌هایی از تاریخ‌نگاری اروپا، به داستان نجات تمدن غرب تبدیل شد؛ داستانی که بسیاری از پیچیدگی‌های این رویارویی را نادیده می‌گرفت.",
+      "date": "2026-10-09T18:05:47Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 6300,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "تلویزیون منوتو",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/PS5qZYRR2z4TwROvbsTjAuf-jmEojK1XRkNLWzRd6PZcTeAl5IU4hjLlZGdpFJBfloGxWpc64MHkPRWMvBrgpd1iFMFEHLt4v6CThhm8j19vC2XBbxJi_UFwinx37R4tiRq8lfb6O_hnjLwmMcqgZpbVDzEuRoI5rNmj7RpLc54cEQjvICZcT1zivbyjPePSIRTTKAxkHrVb9eHaYRFyyqumCQ6Q9FpXCr3vujLzDbPO-KU3BSwpooHW3P77MouMj_6UPaYNVB52SWtMYMHdxyN44jYI6PJ7x1BFslJQMShFEb6RsDDove12xemWm0R7XcnQXRkmKvhpCMVzeBBk2Q",
+          "width": 720
+        }
+      ]
+    },
+    {
+      "id": 108286,
+      "message": "بارندگی، اختلال اینترنت و راننده‌ای که برای پیدا کردن مسیر و مسافرش سردرگم مانده است. در ویدیوی رسیده به گزارشگر، یک راننده اسنپ از اختلال اینترنت و درست کار نکردن موقعیت‌یابی گلایه می‌کند؛ مشکلی که برای او و بسیاری از رانندگان، به معنای از دست رفتن وقت، درآمد و امکان کار است.\u003cbr/\u003eوقتی کار و زندگی مردم به اینترنت وابسته است، اختلال بی‌هشدار در دسترسی به آن، مستقیماً معیشت آن‌ها را مختل می‌کند. مسئولانی که مدام از «قدرت منطقه‌ای» بودن می‌گویند، برای تأمین ابتدایی‌ترین نیازهای روزمره مردم چه پاسخی دارند؟ زیرساختی که با بارندگی دچار مشکل می‌شود و اینترنتی که نمی‌توان به پایداری آن تکیه کرد، فاصله این ادعاها با زندگی واقعی مردم را نشان می‌دهد.",
+      "date": "2026-10-09T18:06:01Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 7140,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "تلویزیون منوتو",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/HqiJcRLFH49roIl6fBKryjLIHfyLYlrA34l3XrAMFmAj7VxyOVPdJ_kkKY2nB9_vhV8MCoemxfcVJRlRMx1EmkaUyw0Jhn-WzFWU-gSlYQbkuur2k2L6B_zK4_JHGgwKtydol-LyhEB8iZyckujABlB8lC4_xy3DSEGUw0KcZ4TMuFJ_DmmV3sZK6xMeFyeFONwWS6sTR5ZSVdRP33eMkkdP_DQEE6kzVqSd51Km3z1FYz-CSKp7HyjOBxehUb0xFrEZnZ3i2k92uadsOM76JA1APdqFOppqBRiv33UIHtEXvVE8cqeDcvuPjJH06QphKfUVyDUfrZBbeX03d_nhSA",
+          "width": 406
+        }
+      ]
+    },
+    {
+      "id": 108287,
+      "message": "در ویدیوی رسیده به گزارشگر، یک شهروند با انتقاد از خبر اختصاص زمین در چابهار به افغانستان، خطاب به مسئولان جمهوری اسلامی می‌گوید: «شمال را به روس‌ها دادید، جنوب را به چین و حالا هم این.»\u003cbr/\u003eاین واکنش در پی اظهارات محسن زنگنه، نماینده مجلس، درباره اختصاص حدود ۱۱۰ هکتار زمین در بندر چابهار و منطقه ویژه به افغانستان، با عنوان توسعه روابط اقتصادی دو کشور مطرح شده است. زنگنه در گفت‌وگو با شبکه سحر افغانستان، این تصمیم را «خبری خوب» برای مردم افغانستان توصیف کرده و گفته است پیشنهاد آن در جلسه‌ای با وزیر صنعت طالبان مطرح شد.\u003cbr/\u003eاین اعتراض، بازتاب بی‌اعتمادی به تصمیم‌هایی است که درباره منابع و دارایی‌های ایران، پشت درهای بسته گرفته می‌شوند؛ همان نگرانی درباره قراردادها با روسیه و چین که حالا با خبر اختصاص زمین در چابهار به افغانستان دوباره مطرح شده است.",
+      "date": "2026-10-09T18:06:09Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 7970,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "تلویزیون منوتو",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/hWfcaWbH_uc6mIiKEMyMfZut2nwuGm16FspZj98low5yjCHEbPJpi0g81i17gDamPOlPicClPgXmuEI-YzX8j2adNWg-66mDr_Jsh-FyuWxzq2NZ6DfcFjVoTc71EaOcFm0LuiviAxj6qHyR5ODtithcLhXI-jt8ahliEwLtPonhSeH8eqCCaEU74B2wfWsCxYeCCXqSpFD-LnHMOfWrzJ7DUBAp4b3LO93oHuC_VozbNPytNPAIoFJfjw4masjhklujlhEVOU9R0mIinWOINIv4TZOjMzmVHFZzBkazEt-DhryaVectot4BpQ-9BlcNeLRRfxOgXKCJBLxo5mHmLg",
+          "width": 406
+        }
+      ]
+    },
+    {
+      "id": 108288,
+      "message": "مادر جاویدنام ایلیا ولی‌پور اهریجانی با انتشار ویدیویی از فرزندش، متنی با عنوان «لالایی برای قهرمانِ خفته‌ام» نوشته است. او در بخشی از این لالایی می‌گوید:\u003cbr/\u003e«لالا لالا قهرمانم، تو خوابیدی و من بیدارم\u003cbr/\u003eببین مادر چه بی‌تابه، فقط گریه شده کارم\u003cbr/\u003eبخواب ایلیا… بخواب قهرمانِ من…»\u003cbr/\u003e\u003cbr/\u003eجاویدنام ایلیا ولی‌پور اهریجانی، ۱۸ ساله و تک‌فرزند خانواده، شامگاه ۱۸ دی‌ماه در جریان اعتراضات گوهردشت کرج با شلیک گلوله جنگی کشته شد.\u003cbr/\u003eبنا بر روایت ارائه‌شده، ایلیا ابتدا با اصابت ساچمه به قفسه سینه مجروح شد. دوستانش از او خواستند که به مراکز درمانی یا خانه برود، اما نپذیرفت و در خیابان ماند. او در محدوده میان خیابان‌های هشتم و نهم گوهردشت، از پشت هدف دو گلوله جنگی قرار گرفت؛ گلوله‌هایی که به پهلو و قلبش اصابت کردند و جانش را گرفتند.",
+      "date": "2026-10-09T20:56:08Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1300,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "تلویزیون منوتو",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/QSeo7mTqqvMzzQ-C2wOK0c7WvmZRsnegWGQdhamMZoCLEzngiN5egepVhONFFiWgcjag47JV2uSELEI_KZ589sI6q-Mn44wRHEiuGXtCXB2jvf8OMLOEhg97waYWvPVNY0R6teG71ZpDbn7qqBo3ZOyRSt87YWihQiSu6ILWVcBet9uD-UWMPSwUoE2TRtP3zuL0LzoJtlbNvRhXwz_PanjYXSjmGULcz77kG3_M7MR8KssFuvbVAUn6-IVifHjvgT_HVZSPSJhi8Mlrw9KChzt4JESxNsK9T5-2cm2G8_u7X9RfkzSsuBcpTMny2Y5H7-PQ2eFuR3ZsHzKPLZ5UDQ",
+          "width": 406
+        }
+      ]
+    },
+    {
+      "id": 108289,
+      "message": "جاویدنام فاطمه سلطانی، ۳۲ ساله، اهل روستای فرطان از توابع شهرستان اسفراین، روز ۱۸ دی ۱۴۰۴ در جریان اعتراضات اسفراین با شلیک مستقیم گلوله جنگی نیروهای حکومتی کشته شد. فاطمه مادر دو فرزند خردسال، گیسوی شش‌ساله و راستین بود.\u003cbr/\u003eهمسر جاویدنام فاطمه سلطانی با انتشار ویدیویی از خود و دو فرزندشان، گیسو و راستین، نوشته است:\u003cbr/\u003e«ادامه می‌دم برای گیسو و راستین؛\u003cbr/\u003eکه شادی‌شون بمونه و انگیزه‌شون هیچ‌وقت کم نشه.\u003cbr/\u003eفاطمه نیست، اما من نمی‌ذارم غیبتِ مادرشون، لبخندشون رو ازشون بگیره.»",
+      "date": "2026-10-09T20:56:16Z",
+      "edited": false,
+      "edit_date": "0001-01-01T00:00:00Z",
+      "views": 1330,
+      "forwards": 0,
+      "replies": 0,
+      "sender_id": 0,
+      "sender_name": "تلویزیون منوتو",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://cdn4.telesco.pe/file/Qlf5RCebGstV7qd3gzZMh7F8s4wnjT-mvVVW_qxm0cEm4-aX5Zc4F1gB3Lhn887uwIPBCAiMPxjVW22Cs9yH31ThUzb_dEhoT_94BoCMCDh3ZohU23uVPaYi5CpuBLI2KgLJD5rZsDw7Pnqg4kKGR2IxB1ljkW31gcVUQJ9ctHwNagB55Eom6frWmQW2ed5QIJUaVJBOaVWEfIJHdegiJ6QCcDyAcyWmH-yWOzNEz9FE01B3WoJ47dLGh6JZ9pUa97d4Ioqg-TaymxZnTBnfc72SWHeXu7-_tbDcK3N0yQYoJXKtAZBvqHpwILoSURXHq5WBjw5uxGgm1NH4Vxz7yA",
           "width": 406
         }
       ]
